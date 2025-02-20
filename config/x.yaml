@@ -1,0 +1,13 @@
+dataset_name: cifar10_10split_noniid
+client_participation: full
+network: fixup_resnet20
+batch_size: 512
+comm_rounds: 200
+local_epoch: 5
+learning_rate: 0.03
+
+
+
+
+
+
