@@ -6,6 +6,9 @@ Recent efforts have been made to integrate self-supervised learning (SSL) with t
 paper link: https://proceedings.mlr.press/v235/jing24b.html
 
 
+Environment requirements: Python 3.11.9 PyTorch 2.3.0
+
+
 ## A Comparison with SOTAs
 
 FedSC (proposed) is the only one applying DP mechanism on components other than the encoder. Moreover, FedSC is the only provable method among them.
