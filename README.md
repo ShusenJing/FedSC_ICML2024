@@ -28,7 +28,7 @@ FedSC (proposed) is the only one applying DP mechanism on components other than 
 4. The clients proceed to update their local models in accordance with the local objective specified in Eq. (Equation reference).
 5. The server aggregates the local models and initiates the next iteration.
 
-![FedSC Diagram](FedSC.eps)
+![FedSC Diagram](FedSC.jpg)
 
 
 
